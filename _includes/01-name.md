@@ -1,1 +1,6 @@
-Replace this with your name, and include a header.
+# Thelmo Pinheiro Sym
+## Curriculo Vitae
+### Analista de sistemas
+#### 41 anos
+##### solteiro
+###### thelmosym@gmail.com
